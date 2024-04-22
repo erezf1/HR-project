@@ -1,0 +1,338 @@
+Files:
+Reviewed Resumes (1FMsHAlWgTeo1xsO7-0f50NWkk0KqfGC1)
+Review Results (1Yv0p1-8GUGaBJswK7mKwyzgFIbbvg-td)
+New Resumes (14_zx9q2S_h4EP9zls_-JuAbWKTKqxxFu)
+Files:
+קורות חיים 2022אורלי שלו_220511_154519_230801_090447.pdf (1-YKGmC-zhd0mPD-6G8DRpnnx2sC0doRm)
+קורות חיים - רם מזרחי.pdf (1-YLf1IVVandJ8oR8Lum-iwB_1sJVr2Ef)
+קורות חיים 2024 אליס כרמי.pdf (1-ZlrUNBXA8ZtkLgAeW20LuVEeDhlMJs5)
+Download 100%.
+./downloads/קורות חיים 2022אורלי שלו_220511_154519_230801_090447.pdf has been downloaded successfully.
+Recorded content to XML file for קורות חיים 2022אורלי שלו_220511_154519_230801_090447.pdf
+Recorded content to text file for קורות חיים 2022אורלי שלו_220511_154519_230801_090447.pdf
+Recorded metadata to review file for ולש ילרוא's resume
+Download 100%.
+./downloads/קורות חיים - רם מזרחי.pdf has been downloaded successfully.
+Recorded content to XML file for קורות חיים - רם מזרחי.pdf
+Recorded content to text file for קורות חיים - רם מזרחי.pdf
+Recorded metadata to review file for יחרזמ םיישיא's resume
+Download 100%.
+./downloads/קורות חיים 2024 אליס כרמי.pdf has been downloaded successfully.
+Recorded content to XML file for קורות חיים 2024 אליס כרמי.pdf
+Recorded content to text file for קורות חיים 2024 אליס כרמי.pdf
+Recorded metadata to review file for רכה's resume
+Processed the following new resumes:
+קורות חיים 2022אורלי שלו_220511_154519_230801_090447.pdf
+קורות חיים - רם מזרחי.pdf
+קורות חיים 2024 אליס כרמי.pdf
+Downloaded 'review.csv' to './Review Results'
+Downloaded 'output.txt' to './Review Results'
+Downloaded 'result.xml' to './Review Results'
+Files:
+Reviewed Resumes (1FMsHAlWgTeo1xsO7-0f50NWkk0KqfGC1)
+Review Results (1Yv0p1-8GUGaBJswK7mKwyzgFIbbvg-td)
+New Resumes (14_zx9q2S_h4EP9zls_-JuAbWKTKqxxFu)
+No files found.
+Processed the following new resumes:
+
+Downloaded 'review.csv' to './Review Results'
+Downloaded 'output.txt' to './Review Results'
+Downloaded 'result.xml' to './Review Results'
+Files:
+Reviewed Resumes (1FMsHAlWgTeo1xsO7-0f50NWkk0KqfGC1)
+Review Results (1Yv0p1-8GUGaBJswK7mKwyzgFIbbvg-td)
+New Resumes (14_zx9q2S_h4EP9zls_-JuAbWKTKqxxFu)
+Files:
+קורות חיים 2024 אליס כרמי.pdf (1-ZlrUNBXA8ZtkLgAeW20LuVEeDhlMJs5)
+Download 100%.
+./downloads/קורות חיים 2024 אליס כרמי.pdf has been downloaded successfully.
+Recorded content to XML file for קורות חיים 2024 אליס כרמי.pdf
+Recorded content to text file for קורות חיים 2024 אליס כרמי.pdf
+Recorded metadata to review file for רפס יתב "בל תמושת"'s resume
+Processed the following new resumes:
+קורות חיים 2024 אליס כרמי.pdf
+Downloaded 'review.csv' to './Review Results'
+Downloaded 'output.txt' to './Review Results'
+Downloaded 'result.xml' to './Review Results'
+Files:
+Reviewed Resumes (1FMsHAlWgTeo1xsO7-0f50NWkk0KqfGC1)
+Review Results (1Yv0p1-8GUGaBJswK7mKwyzgFIbbvg-td)
+New Resumes (14_zx9q2S_h4EP9zls_-JuAbWKTKqxxFu)
+Files:
+Copy of קורות חיים 2022אורלי שלו_220511_154519_230801_090447.pdf (1mCcluMCoMsSc8ZHEVXcFcZN3lCZy1dJ0)
+Download 100%.
+./downloads/Copy of קורות חיים 2022אורלי שלו_220511_154519_230801_090447.pdf has been downloaded successfully.
+Recorded content to XML file for Copy of קורות חיים 2022אורלי שלו_220511_154519_230801_090447.pdf
+Recorded content to text file for Copy of קורות חיים 2022אורלי שלו_220511_154519_230801_090447.pdf
+Recorded metadata to review file for ולש ילרוא's resume
+Processed the following new resumes:
+Copy of קורות חיים 2022אורלי שלו_220511_154519_230801_090447.pdf
+Downloaded 'review.csv' to './Review Results'
+Downloaded 'output.txt' to './Review Results'
+Downloaded 'result.xml' to './Review Results'
+Files:
+Reviewed Resumes (1FMsHAlWgTeo1xsO7-0f50NWkk0KqfGC1)
+Review Results (1Yv0p1-8GUGaBJswK7mKwyzgFIbbvg-td)
+New Resumes (14_zx9q2S_h4EP9zls_-JuAbWKTKqxxFu)
+Files:
+קורות חיים 2024.pdf (1-uS5clLvXhhe-JYEPJW_KO-NGpfNtgvP)
+מישל לב ארי מרס 2024.pdf (1-us0wPEIiGDaUuVB_M4u2399v-6eINDP)
+Download 100%.
+./downloads/קורות חיים 2024.pdf has been downloaded successfully.
+Recorded content to XML file for קורות חיים 2024.pdf
+Recorded content to text file for קורות חיים 2024.pdf
+Recorded metadata to review file for יעקוב's resume
+Download 100%.
+./downloads/מישל לב ארי מרס 2024.pdf has been downloaded successfully.
+Recorded content to XML file for מישל לב ארי מרס 2024.pdf
+Recorded content to text file for מישל לב ארי מרס 2024.pdf
+Recorded metadata to review file for רשק תריצי's resume
+Processed the following new resumes:
+קורות חיים 2024.pdf
+מישל לב ארי מרס 2024.pdf
+Downloaded 'review.csv' to './Review Results'
+Downloaded 'output.txt' to './Review Results'
+Downloaded 'result.xml' to './Review Results'
+Files:
+Reviewed Resumes (1FMsHAlWgTeo1xsO7-0f50NWkk0KqfGC1)
+Review Results (1Yv0p1-8GUGaBJswK7mKwyzgFIbbvg-td)
+New Resumes (14_zx9q2S_h4EP9zls_-JuAbWKTKqxxFu)
+Files:
+272-44-411636640 (2).docx (105troT45EaJSBagvS4C5pPDpapLDl5ww)
+272-44-110443576 (2).docx (10Ai7s2V06iYjvKE11DbEv4dnvehGXdPF)
+272-44-909855904.docx (103bKzMyqqYLIhTxxcu_ANq2mQF56d3Mf)
+272-44-180209568 (2).doc (106Ho6S-I0_WYOuj2YB09ISfhh-f5mTub)
+272-44-961530848 (2).docx (103FNrQAirM5m04dBcuO98dxbYszdopqm)
+קורות חיים 2022אורלי שלו_220511_154519_230801_090447.pdf (100DZocbUECw-RryY-SKMghoU7y135kn-)
+מישל לב ארי מרס 2024.pdf (102hNJfIyz4JdCf9ON1Cp7xa1WafgPoSc)
+קורות חיים - רם מזרחי.pdf (102CP8M1xgg4m1A3IEThOkv2aepZdHT4h)
+קורות חיים 2024.pdf (1-wmLjdalui400fAvgkRhvfrzlgifUuwp)
+קורות חיים 2024 אליס כרמי.pdf (1-x7kYq6H0oD8RpoofGLjWB0trQXU1PPK)
+Download 100%.
+./downloads/272-44-411636640 (2).docx has been downloaded successfully.
+Recorded content to XML file for 272-44-411636640 (2).docx
+Recorded content to text file for 272-44-411636640 (2).docx
+Recorded metadata to review file for מיכאל גינזבורג's resume
+Download 100%.
+./downloads/272-44-110443576 (2).docx has been downloaded successfully.
+Recorded content to XML file for 272-44-110443576 (2).docx
+Recorded content to text file for 272-44-110443576 (2).docx
+Recorded metadata to review file for חן צור's resume
+Download 100%.
+./downloads/272-44-909855904.docx has been downloaded successfully.
+Recorded content to XML file for 272-44-909855904.docx
+Recorded content to text file for 272-44-909855904.docx
+Recorded metadata to review file for איהאב זועבי's resume
+Download 100%.
+./downloads/272-44-180209568 (2).doc has been downloaded successfully.
+Recorded content to XML file for 272-44-180209568 (2).doc
+Recorded content to text file for 272-44-180209568 (2).doc
+Recorded metadata to review file for The name of the candidate is not provided in the provided text.'s resume
+Download 100%.
+./downloads/272-44-961530848 (2).docx has been downloaded successfully.
+Recorded content to XML file for 272-44-961530848 (2).docx
+Recorded content to text file for 272-44-961530848 (2).docx
+Recorded metadata to review file for מונא יחיא's resume
+Download 100%.
+./downloads/קורות חיים 2022אורלי שלו_220511_154519_230801_090447.pdf has been downloaded successfully.
+Recorded content to XML file for קורות חיים 2022אורלי שלו_220511_154519_230801_090447.pdf
+Recorded content to text file for קורות חיים 2022אורלי שלו_220511_154519_230801_090447.pdf
+Recorded metadata to review file for וולש ילרוא's resume
+Download 100%.
+./downloads/מישל לב ארי מרס 2024.pdf has been downloaded successfully.
+Recorded content to XML file for מישל לב ארי מרס 2024.pdf
+Recorded content to text file for מישל לב ארי מרס 2024.pdf
+Recorded metadata to review file for רשק תריצי's resume
+Download 100%.
+./downloads/קורות חיים - רם מזרחי.pdf has been downloaded successfully.
+Recorded content to XML file for קורות חיים - רם מזרחי.pdf
+Recorded content to text file for קורות חיים - רם מזרחי.pdf
+Recorded metadata to review file for חירות's resume
+Download 100%.
+./downloads/קורות חיים 2024.pdf has been downloaded successfully.
+Recorded content to XML file for קורות חיים 2024.pdf
+Recorded content to text file for קורות חיים 2024.pdf
+Recorded metadata to review file for יעקוב's resume
+Download 100%.
+./downloads/קורות חיים 2024 אליס כרמי.pdf has been downloaded successfully.
+Recorded content to XML file for קורות חיים 2024 אליס כרמי.pdf
+Recorded content to text file for קורות חיים 2024 אליס כרמי.pdf
+Recorded metadata to review file for Karuna 's resume
+Processed the following new resumes:
+272-44-411636640 (2).docx
+272-44-110443576 (2).docx
+272-44-909855904.docx
+272-44-180209568 (2).doc
+272-44-961530848 (2).docx
+קורות חיים 2022אורלי שלו_220511_154519_230801_090447.pdf
+מישל לב ארי מרס 2024.pdf
+קורות חיים - רם מזרחי.pdf
+קורות חיים 2024.pdf
+קורות חיים 2024 אליס כרמי.pdf
+Downloaded 'review.csv' to './Review Results'
+Downloaded 'output.txt' to './Review Results'
+Downloaded 'result.xml' to './Review Results'
+Files:
+EvaluationData.csv (10BC-MfGYfkHVOYzgnD46Kc_x5yDnAKOq)
+DetailedResumeAnalysis.csv (10CtOS_E7R1RhDdYAtMTcTXx-nVl05eV6)
+EvaluationData (1TjEYSx_SocOSV6dhgcvYaXDxv-W1CYOTXbsWf8_GQSs)
+Reviewed Resumes (1FMsHAlWgTeo1xsO7-0f50NWkk0KqfGC1)
+Review Results (1Yv0p1-8GUGaBJswK7mKwyzgFIbbvg-td)
+New Resumes (14_zx9q2S_h4EP9zls_-JuAbWKTKqxxFu)
+Files:
+272-44-411636640 (2).docx (105troT45EaJSBagvS4C5pPDpapLDl5ww)
+272-44-110443576 (2).docx (10Ai7s2V06iYjvKE11DbEv4dnvehGXdPF)
+272-44-909855904.docx (103bKzMyqqYLIhTxxcu_ANq2mQF56d3Mf)
+272-44-180209568 (2).doc (106Ho6S-I0_WYOuj2YB09ISfhh-f5mTub)
+272-44-961530848 (2).docx (103FNrQAirM5m04dBcuO98dxbYszdopqm)
+קורות חיים - רם מזרחי.pdf (102CP8M1xgg4m1A3IEThOkv2aepZdHT4h)
+קורות חיים 2024.pdf (1-uS5clLvXhhe-JYEPJW_KO-NGpfNtgvP)
+מישל לב ארי מרס 2024.pdf (1-us0wPEIiGDaUuVB_M4u2399v-6eINDP)
+קורות חיים 2022אורלי שלו_220511_154519_230801_090447.pdf (1-YKGmC-zhd0mPD-6G8DRpnnx2sC0doRm)
+קורות חיים - רם מזרחי.pdf (1-YLf1IVVandJ8oR8Lum-iwB_1sJVr2Ef)
+Download 100%.
+./downloads/272-44-411636640 (2).docx has been downloaded successfully.
+Recorded content to XML file for 272-44-411636640 (2).docx
+Recorded content to text file for 272-44-411636640 (2).docx
+Recorded metadata to review file for מיכאל גינזבורג's resume
+Download 100%.
+./downloads/272-44-110443576 (2).docx has been downloaded successfully.
+Recorded content to XML file for 272-44-110443576 (2).docx
+Recorded content to text file for 272-44-110443576 (2).docx
+Recorded metadata to review file for חן צור's resume
+Download 100%.
+./downloads/272-44-909855904.docx has been downloaded successfully.
+Recorded content to XML file for 272-44-909855904.docx
+Recorded content to text file for 272-44-909855904.docx
+Recorded metadata to review file for איהאב זועבי's resume
+Download 100%.
+./downloads/272-44-180209568 (2).doc has been downloaded successfully.
+Recorded content to XML file for 272-44-180209568 (2).doc
+Recorded content to text file for 272-44-180209568 (2).doc
+Recorded metadata to review file for It appears that the resume data is not provided. Please provide the resume data for me to extract the name of the candidate.'s resume
+Download 100%.
+./downloads/272-44-961530848 (2).docx has been downloaded successfully.
+Recorded content to XML file for 272-44-961530848 (2).docx
+Recorded content to text file for 272-44-961530848 (2).docx
+Recorded metadata to review file for מונא יחיא's resume
+Download 100%.
+./downloads/קורות חיים - רם מזרחי.pdf has been downloaded successfully.
+Recorded content to XML file for קורות חיים - רם מזרחי.pdf
+Recorded content to text file for קורות חיים - רם מזרחי.pdf
+Recorded metadata to review file for יחרזמ's resume
+Download 100%.
+./downloads/קורות חיים 2024.pdf has been downloaded successfully.
+Recorded content to XML file for קורות חיים 2024.pdf
+Recorded content to text file for קורות חיים 2024.pdf
+Recorded metadata to review file for יעקוב's resume
+Download 100%.
+./downloads/מישל לב ארי מרס 2024.pdf has been downloaded successfully.
+Recorded content to XML file for מישל לב ארי מרס 2024.pdf
+Recorded content to text file for מישל לב ארי מרס 2024.pdf
+Recorded metadata to review file for Michelle's resume
+Download 100%.
+./downloads/קורות חיים 2022אורלי שלו_220511_154519_230801_090447.pdf has been downloaded successfully.
+Recorded content to XML file for קורות חיים 2022אורלי שלו_220511_154519_230801_090447.pdf
+Recorded content to text file for קורות חיים 2022אורלי שלו_220511_154519_230801_090447.pdf
+Recorded metadata to review file for ולש ילרוא's resume
+Download 100%.
+./downloads/קורות חיים - רם מזרחי.pdf has been downloaded successfully.
+Recorded content to XML file for קורות חיים - רם מזרחי.pdf
+Recorded content to text file for קורות חיים - רם מזרחי.pdf
+Recorded metadata to review file for יחרזמ's resume
+Processed the following new resumes:
+272-44-411636640 (2).docx
+272-44-110443576 (2).docx
+272-44-909855904.docx
+272-44-180209568 (2).doc
+272-44-961530848 (2).docx
+קורות חיים - רם מזרחי.pdf
+קורות חיים 2024.pdf
+מישל לב ארי מרס 2024.pdf
+קורות חיים 2022אורלי שלו_220511_154519_230801_090447.pdf
+קורות חיים - רם מזרחי.pdf
+Downloaded 'review.csv' to './Review Results'
+Downloaded 'output.txt' to './Review Results'
+Downloaded 'result.xml' to './Review Results'
+Files:
+EvaluationData.csv (10BC-MfGYfkHVOYzgnD46Kc_x5yDnAKOq)
+DetailedResumeAnalysis.csv (10CtOS_E7R1RhDdYAtMTcTXx-nVl05eV6)
+EvaluationData (1TjEYSx_SocOSV6dhgcvYaXDxv-W1CYOTXbsWf8_GQSs)
+Reviewed Resumes (1FMsHAlWgTeo1xsO7-0f50NWkk0KqfGC1)
+Review Results (1Yv0p1-8GUGaBJswK7mKwyzgFIbbvg-td)
+New Resumes (14_zx9q2S_h4EP9zls_-JuAbWKTKqxxFu)
+Files:
+272-44-411636640 (2).docx (105troT45EaJSBagvS4C5pPDpapLDl5ww)
+272-44-110443576 (2).docx (10Ai7s2V06iYjvKE11DbEv4dnvehGXdPF)
+272-44-909855904.docx (103bKzMyqqYLIhTxxcu_ANq2mQF56d3Mf)
+272-44-180209568 (2).doc (106Ho6S-I0_WYOuj2YB09ISfhh-f5mTub)
+272-44-961530848 (2).docx (103FNrQAirM5m04dBcuO98dxbYszdopqm)
+קורות חיים - רם מזרחי.pdf (102CP8M1xgg4m1A3IEThOkv2aepZdHT4h)
+קורות חיים 2024.pdf (1-uS5clLvXhhe-JYEPJW_KO-NGpfNtgvP)
+מישל לב ארי מרס 2024.pdf (1-us0wPEIiGDaUuVB_M4u2399v-6eINDP)
+קורות חיים 2022אורלי שלו_220511_154519_230801_090447.pdf (1-YKGmC-zhd0mPD-6G8DRpnnx2sC0doRm)
+קורות חיים - רם מזרחי.pdf (1-YLf1IVVandJ8oR8Lum-iwB_1sJVr2Ef)
+Download 100%.
+./downloads/272-44-411636640 (2).docx has been downloaded successfully.
+Recorded content to XML file for 272-44-411636640 (2).docx
+Recorded content to text file for 272-44-411636640 (2).docx
+Recorded metadata to review file for מיכאל גינזבורג's resume
+Download 100%.
+./downloads/272-44-110443576 (2).docx has been downloaded successfully.
+Recorded content to XML file for 272-44-110443576 (2).docx
+Recorded content to text file for 272-44-110443576 (2).docx
+Recorded metadata to review file for חן צור's resume
+Download 100%.
+./downloads/272-44-909855904.docx has been downloaded successfully.
+Recorded content to XML file for 272-44-909855904.docx
+Recorded content to text file for 272-44-909855904.docx
+Recorded metadata to review file for איהאב זועבי's resume
+Download 100%.
+./downloads/272-44-180209568 (2).doc has been downloaded successfully.
+Recorded content to XML file for 272-44-180209568 (2).doc
+Recorded content to text file for 272-44-180209568 (2).doc
+Recorded metadata to review file for It seems that the resume data is missing. Can you please provide the resume data so that I can extract the name of the candidate?'s resume
+Download 100%.
+./downloads/272-44-961530848 (2).docx has been downloaded successfully.
+Recorded content to XML file for 272-44-961530848 (2).docx
+Recorded content to text file for 272-44-961530848 (2).docx
+Recorded metadata to review file for מונא יחיא's resume
+Download 100%.
+./downloads/קורות חיים - רם מזרחי.pdf has been downloaded successfully.
+Recorded content to XML file for קורות חיים - רם מזרחי.pdf
+Recorded content to text file for קורות חיים - רם מזרחי.pdf
+Recorded metadata to review file for יחרזמ םיישיא's resume
+Download 100%.
+./downloads/קורות חיים 2024.pdf has been downloaded successfully.
+Recorded content to XML file for קורות חיים 2024.pdf
+Recorded content to text file for קורות חיים 2024.pdf
+Recorded metadata to review file for יעקוב's resume
+Download 100%.
+./downloads/מישל לב ארי מרס 2024.pdf has been downloaded successfully.
+Recorded content to XML file for מישל לב ארי מרס 2024.pdf
+Recorded content to text file for מישל לב ארי מרס 2024.pdf
+Recorded metadata to review file for רשק תריצי's resume
+Download 100%.
+./downloads/קורות חיים 2022אורלי שלו_220511_154519_230801_090447.pdf has been downloaded successfully.
+Recorded content to XML file for קורות חיים 2022אורלי שלו_220511_154519_230801_090447.pdf
+Recorded content to text file for קורות חיים 2022אורלי שלו_220511_154519_230801_090447.pdf
+Recorded metadata to review file for ולש ילרוא's resume
+Download 100%.
+./downloads/קורות חיים - רם מזרחי.pdf has been downloaded successfully.
+Recorded content to XML file for קורות חיים - רם מזרחי.pdf
+Recorded content to text file for קורות חיים - רם מזרחי.pdf
+Recorded metadata to review file for יחרזמ's resume
+Processed the following new resumes:
+272-44-411636640 (2).docx
+272-44-110443576 (2).docx
+272-44-909855904.docx
+272-44-180209568 (2).doc
+272-44-961530848 (2).docx
+קורות חיים - רם מזרחי.pdf
+קורות חיים 2024.pdf
+מישל לב ארי מרס 2024.pdf
+קורות חיים 2022אורלי שלו_220511_154519_230801_090447.pdf
+קורות חיים - רם מזרחי.pdf
+Downloaded 'review.csv' to './Review Results'
+Downloaded 'output.txt' to './Review Results'
+Downloaded 'result.xml' to './Review Results'

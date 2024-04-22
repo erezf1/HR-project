@@ -1,0 +1,77 @@
+﻿Project Overview
+Objective
+To create an innovative, AI-assisted automation service that simplifies the task of arranging real estate tours for potential buyers. This service is designed for small business in the real estate industry that specialise in organising real estate tours for customers looking to buy properties abroad.
+Key Features
+* Automated Tour Scheduling: Utilize AI to schedule property tours based on customer preferences, available dates, and property POC availability.
+* Dynamic Itinerary Planning: Generate and adjust customer itineraries for property visits, accommodating changes and preferences.
+* Communication Automation: Automatically send meeting invites, reminders, and follow-ups to both customers and property POCs via email.
+* Feedback Collection: Post-tour feedback collection from customers to continually improve the service and property offerings.
+System Components 
+* AI Assistant
+   * Functionality: This is the intelligent core of the system, equipped with algorithms capable of analyzing customer preferences, scheduling constraints, and available property data to make informed decisions. It orchestrates the entire process of tour planning, scheduling, and communication.
+   * Role: Beyond decision-making, the AI Assistant will be responsible for facilitating the process, including reminders, changes where needed and notifications.
+   * Integration: Interfaces with the Application Interface for inputs and updates, the Data Store for accessing and updating records, and the Automation Action Library for executing tasks.
+* Application agent(App)
+   * Functionality: Serves as the midigator between the AI being the brain of the application and the other components of the system
+   * Role: It acts as the bridge between data and actions to the AI Assistant, facilitating easy communication of tasks actions and updates.
+   * Integration: Transmits user inputs to the AI Assistant and displays outputs (itineraries, confirmations) from the assistant to the other compoents.
+* Data Store
+   * Functionality: A comprehensive database that securely houses all relevant data, including customer profiles, property details, agent information, availability schedules of property points of contact (POCs), and historical communication logs.
+   * Role: Ensures data integrity and accessibility, serving as the foundational layer that supports the AI Assistant's decision-making process.
+   * Integration: Continuously updated and queried by the AI Assistant to retrieve necessary data for processing user requests and managing schedules.
+* Event Listener
+   * Functionality: Constantly monitors for specific events or triggers that necessitate action from the AI Assistant, such as new inquiries, changes in POC availability, or feedback submissions.
+   * Role: Acts as the system's sensory organs, detecting changes in the environment and ensuring timely responses to keep the workflow moving smoothly.
+   * Integration: Directly linked to application agent to prompt immediate action upon detection of relevant events.
+* Automation Action Library
+   * Functionality: A repository of predefined tasks and functions that the AI Assistant can deploy to accomplish various tasks. This includes sending out emails, scheduling appointments, updating itineraries, and collecting feedback.
+   * Role: Enables the AI Assistant to execute a wide range of actions efficiently, reducing the need for manual intervention and ensuring consistency in communications and scheduling.
+   * Integration: Accessed by the AI Assistant whenever a task needs to be performed, with the ability to select and customize actions based on the specific requirements of each situation.
+Workflow Process
+* New customer sign for properties trip
+* Analysed the list of real estate agents that need to be included in the trip and create a schedule
+* Send invitations for meetings to real estate agents
+* Follow Up on replies
+   * Send reminders when needed
+   * Reschedule if there was a problem
+* When itinerary is fully approved update data and users
+* Collect feedbacks after the trip was over
+* Project plan (high-level)
+Architecture document
+Create an architecture document that includes
+        System diagram block with all system components
+        List of calls between the different system components
+        System data including all files/tables and their structure
+        Action library - all functions and tasks that will be available for AI and agent
+Configuration of AI assistant - what data need to be provided at every hierarchy (assistant, thread, message)
+Instruction file for the AI to use
+High level Test plan
+Project development gantt
+System coding 
+Components Involved:
+* Create GPT AI assistant
+* Create data store and files
+* Code the application agent 
+* Create the actions library
+System testing 
+Test the main workflow of the system and less common scenario
+Identify when the AI assistant wasn't functioning as expected
+Data and Files Required
+User Data
+* User Profiles: Includes information about the customers, such as name, contact details (email, phone number), preferences (types of properties interested in, preferred locations, budget ranges), and historical interactions (past inquiries, scheduled tours).
+* Authentication Data: Usernames, passwords, and other authentication details for secure access to the system.
+Real Estate Data
+* Project Listings: Detailed information on each real estate project, including project name, location, description, images, price range, and unique selling points.
+* POC Information: Details of the Points of Contact for each project, such as name, role, contact information (email, phone number), and best times for contact.
+Scheduling Data
+* Tour Requests: Data submitted by users expressing interest in specific projects, including preferred dates and times for tours, and any special requests or considerations.
+* Scheduled Tours: Details about confirmed tours, including the date, time, project name, POC details, and any preparation required from the customer.
+* Calendar Integrations: Data from external calendar services used to schedule and track appointments, ensuring no conflicts and efficient time management.
+Communication Data
+* Email Templates: Predefined email templates for various communication needs, such as tour confirmation, reminders, follow-ups, and feedback requests.
+* Message Logs: Records of all communications sent and received through the system, including email, SMS, and any in-app messages.
+Feedback and Analytics Data
+* User Feedback: Feedback from users about their experience with the tour, the usefulness of the system, and any suggestions for improvement.
+System Operational Data
+* Error Logs: Records of system errors, exceptions, and troubleshooting logs to help in diagnosing and correcting issues.
+* Performance Metrics: Data on system performance, including response times, load times, and any downtime occurrences.
